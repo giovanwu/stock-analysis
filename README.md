@@ -5,9 +5,9 @@ The purpose of this analysis is to refactor the original VBA script from Module 
 ## Results
 ### 1.
 When we compare the performances of the stock data that is provided, we can see that 9 out of 12 stocks that had a positive return in 2017 received a negative return in 2018, 1 out of 12 stocks remained a negative return in both 2017 and 2018, and 2 out of 12 stocks had positive returns in 2017 and 2018, which are ENPH and RUN.
-### 2.
-https://raw.githubusercontent.com/giovanwu/stock-analysis/master/VBA_Challenge_2017.png
-https://raw.githubusercontent.com/giovanwu/stock-analysis/master/VBA_Challenge_2018.png
+### 2
+![image](https://raw.githubusercontent.com/giovanwu/stock-analysis/master/VBA_Challenge_2017.png)
+![image](https://raw.githubusercontent.com/giovanwu/stock-analysis/master/VBA_Challenge_2018.png)
 Additionally, when we compare the execution times of the original script and the refactored script, we found out that the refactored script did become more efficient as it takes significantly less time to run the analysis than the original script.
 —
 ## Summary
