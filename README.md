@@ -10,7 +10,7 @@ When we compare the performances of the stock data that is provided, we can see 
 ![image](https://raw.githubusercontent.com/giovanwu/stock-analysis/master/VBA_Challenge_2018.png)
 
 Additionally, when we compare the execution times of the original script and the refactored script, we found out that the refactored script did become more efficient as it takes significantly less time to run the analysis than the original script.
-—
+
 ## Summary
 ### Advantages of Refactored VBA Script:
 -You can spend less time to run analysis and make it more efficient
